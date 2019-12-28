@@ -1,0 +1,8 @@
+{
+  "appId": "fixperto.starter",
+  "appName": "fixperto",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

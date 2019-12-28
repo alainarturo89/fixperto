@@ -1,0 +1,7 @@
+{
+  "name": "fixperto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
